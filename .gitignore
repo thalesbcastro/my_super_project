@@ -1,0 +1,11 @@
+# Python
+__pycache__
+
+# Folder vscode
+.vscode
+
+# Virtual Enviroment
+.venv/
+
+# Test BD
+sql_app.db

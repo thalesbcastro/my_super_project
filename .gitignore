@@ -5,7 +5,8 @@ __pycache__
 .vscode
 
 # Virtual Enviroment
-.venv/
-
+.venv
+env/
+venv/
 # Test BD
 sql_app.db
